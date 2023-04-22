@@ -4,3 +4,6 @@
 ****Homework 1**** 
 
 There are 3 csv files which are related to author collaboration, countries working together and keywords that are mentioned together in the same paper. Plot them and try to use some nice layout. Use **Gephi** or any other software you like to plot the networks.
+
+****Homework 2**** 
+For each network, describe the networks from the papers in your own words.For each network calculate four centrality measures and tell what they mean in the network context.
